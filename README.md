@@ -2,6 +2,8 @@
 
 A simple, interactive decision-tree tool that helps users determine how the EU AI Act (Regulation (EU) 2024/1689) applies to their AI system.
 
+**→ [Try it live](https://joonaschuk.github.io/eu-compliance-toolkit)**
+
 ## What it does
 
 The classifier walks users through a structured series of questions based directly on the EU AI Act and produces one of the following results:

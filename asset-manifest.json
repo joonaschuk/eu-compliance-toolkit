@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eu-compliance-toolkit/static/css/main.5812ed07.css",
+    "main.js": "/eu-compliance-toolkit/static/js/main.0efb2ea3.js",
+    "index.html": "/eu-compliance-toolkit/index.html",
+    "main.5812ed07.css.map": "/eu-compliance-toolkit/static/css/main.5812ed07.css.map",
+    "main.0efb2ea3.js.map": "/eu-compliance-toolkit/static/js/main.0efb2ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5812ed07.css",
+    "static/js/main.0efb2ea3.js"
+  ]
+}
